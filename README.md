@@ -32,7 +32,7 @@ I'm a **Computer Engineering** student with a passion for **Full Stack Web Devel
 - Organizing tech communities  
 
 📫 **How to Reach Me:**  
-- [LinkedIn](your-linkedin-profile)  
+- [LinkedIn](https://www.linkedin.com/in/sourav-kale-ab831029b/)  
 - [GitHub](https://github.com/KaleSourav)  
 - [Email](your-email@example.com)  
 
